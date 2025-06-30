@@ -10,6 +10,7 @@ I’m a passionate **UI/UX designer** and **full-stack developer** with a strong
 
 ---
 
+
 ## 🌐 Connect with Me
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/manusingh28)
@@ -39,6 +40,8 @@ I’m a passionate **UI/UX designer** and **full-stack developer** with a strong
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats
 
