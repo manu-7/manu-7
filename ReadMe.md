@@ -55,6 +55,7 @@ I’m a passionate **UI/UX designer** and **full-stack developer** with a strong
 ![](https://github-contributor-stats.vercel.app/api?username=manu-7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
 
 [![](https://visitcount.itsvg.in/api?id=manu-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
