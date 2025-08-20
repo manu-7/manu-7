@@ -5,7 +5,7 @@ I’m a passionate **UI/UX Designer** and **Full-Stack Developer** with strong f
 I specialize in creating **modern, user-friendly interfaces** while building **scalable backends**.  
 Currently exploring **AI with RAG (Retrieval-Augmented Generation)** and **local LLMs (Ollama, Phi)**.  
 
-- 🔭 Currently building: **AI-powered apps** (YouTube Chatbot RAG with Ollama + Phi, EcoPark Ticketing system, Swiggy Clone)  
+- 🔭 Currently building: **AI-powered apps** (YouTube Chatbot RAG with Ollama + Phi, EcoPark Ticketing system)  
 - 💻 Core Skills: **Frontend + Backend**, **UI/UX Design**, **AI with RAG**, **DSA problem solving**  
 - 🎨 Designed: **Cricket Management App**,  **E-Commerce Platform**, **Online study platform**  
 - 🏫 Education: **B.P. Poddar Institute of Management and Technology (IT, 2022–26)**  
