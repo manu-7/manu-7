@@ -104,6 +104,15 @@ I focus on building **scalable backend systems**, **clean APIs**, and **intuitiv
 - 🏏 Cricket Team Captain (IT Dept.)  
 
 ---
+## 🎯 Open To
+
+- 💼 **Full-time opportunities** in Full-Stack or Backend Development  
+- 🤝 **Freelance & Contract** projects (AI, Web, Design)  
+- 🌐 **Open-source contributions** in AI/ML and web frameworks  
+- 👥 **Collaborations** on innovative projects  
+- 📚 **Internships** in AI/ML or Product Development  
+
+---
 
 ## 📞 Let’s Connect
 
