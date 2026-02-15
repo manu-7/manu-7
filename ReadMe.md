@@ -73,7 +73,7 @@ I work primarily with **Python**, **FastAPI**, and **Django**, and I actively ex
 ---
 
 ## 🌱 Open Source Contributions
-- ✅ **Merged pull requests in 2 open-source projects**
+- ✅ **Merged pull requests in 3 open-source projects**
 - Worked on:
   - Documentation improvements
   - Error handling & developer experience fixes
